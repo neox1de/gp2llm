@@ -2,6 +2,12 @@
 name = "gp2llm"
 version = "0.1.0"
 edition = "2021"
+authors = ["neox1de"]
+description = "A CLI tool to fetch GitHub profiles and generate JSON/Markdown outputs"
+repository = "https://github.com/neox1de/gp2llm"
+license = "MIT"
+keywords = ["github", "profile", "markdown", "json", "cli"]
+categories = ["command-line-utilities", "development-tools"]
 
 [dependencies]
 anyhow = "1.0.95"
